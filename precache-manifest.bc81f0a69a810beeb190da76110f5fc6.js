@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "103d1e13eb090cfdfb136d3aa81e4f55",
+    "revision": "87d346738217feaf22570bfb5d3ec9d3",
     "url": "/year-view-calendar/index.html"
   },
   {
-    "revision": "b451e97b9be34f2aac24",
+    "revision": "2b796e6e346dbaa9493d",
     "url": "/year-view-calendar/static/css/main.88c060e0.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/year-view-calendar/static/js/2.53d78030.chunk.js"
   },
   {
-    "revision": "b451e97b9be34f2aac24",
-    "url": "/year-view-calendar/static/js/main.8a29f0f3.chunk.js"
+    "revision": "2b796e6e346dbaa9493d",
+    "url": "/year-view-calendar/static/js/main.5aa6da4e.chunk.js"
   },
   {
     "revision": "2af3258796dc6695aaab",
